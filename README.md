@@ -1,13 +1,18 @@
-### Hi there 👋
-
-# Hello,
-
+# Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Birhan+Abuhay+Jemere+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
 <h2 align="center"> I'm a Software Engineer and a Data Science Enthusiastic!</h2>
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<p align="center"> Hi, <strong> I am Birhan Abuhay Jemere </strong>, a passionate <em>Software Engineer </em> with 4 years of experience in lecturing different programing language in Debre Tabor Universty. I have worked on several challenging projects that have enhanced my problem-solving and analytical skills. Currently, I am working as a <b> Instractor </b> at <em> DTU </em>. I enjoy exploring new technologies and contributing to open-source communities. Some of my major contributions include developning web based university addmission system,Human Resource management System, cleaning dataset ,data exploratory analysis , traning and validating different machine learning algorithms, working research using ML and deeplearning algorthms. In my free time, I love to read technical blogs and participate in programming forums.Let's connect and collaborate on exciting projects.! For advancing my career Currently, I'm learning remote Software Engineering from <a href="https://www.alxafrica.com/">Holberton school/ALX</a> <br> <br> <a href="https://www.microverse.org/">Microverse </a> I spend most of my time through writing codes to enhance my programming skills.</p>
+<div align="justify">
+<p align="justify"> Hi, <strong> I am Birhan Abuhay Jemere </strong>, a passionate <em>Software Engineer </em> with 4 years of experience in lecturing different programing language in Debre Tabor Universty. I have worked on several challenging projects that have enhanced my problem-solving and analytical skills. Currently, I am working as a <b> Instractor </b> at <em> DTU </em>. I enjoy exploring new technologies and contributing to open-source communities. Some of my major contributions include developning web based university addmission system,Human Resource management System, cleaning dataset ,data exploratory analysis , traning and validating different machine learning algorithms, working research using ML and deeplearning algorthms. In my free time, I love to read technical blogs and participate in programming forums.Let's connect and collaborate on exciting projects.!<br> For advancing my career Currently, I'm learning remote Software Engineering from 
+<ul>
+  <li><a href="https://www.alxafrica.com/">Holberton school/ALX</a></li><br>
+  <li><a href="https://www.microverse.org/">Microverse </a></li><br>
+  <li><a href="https://www.coursera.org/professional-certificates/ibm-backend-development" > IBM </a> </li>
+  <li><a href="https://www.coursera.org/professional-certificates/ibm-backend-development" > IBM </a> </li>
+   
+</ul> <br> I spend most of my time through writing codes to enhance my programming skills.</p>
+</div>
 <div align="center">
 <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
 
@@ -74,12 +79,12 @@
   <h2 align="center"> Github Statistics 📈 </h2>
 
 
-| <a href="https://github-readme-stats.vercel.app/api?username=TgGeda&show_icons=true&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TgGeda&show_icons=true&theme=radical" alt="zachee's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TgGeda&layout=compact&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgGeda&layout=compact&theme=radical" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=TgGeda&show_icons=true&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TgGeda&show_icons=true&theme=radical" alt="Birhanis's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TgGeda&layout=compact&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgGeda&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 <hr>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/{ishimwezachee}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{TgGeda}/count.svg)
 
 ⭐️ From [Birhan Abuhay Jemere](http://www.github.com/TgGeda)
 
