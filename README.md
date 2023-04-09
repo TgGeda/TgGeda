@@ -29,7 +29,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me: 
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhan-abuhay-jemere-a30b441a3/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bura.abuy2015@gmail.com) https://img.shields.io/badge/twitter/url style=social&url=href%3D%22https%3A%2F%2Ftwitter.com%2FAbuhayJemere%22%20target%3D%22_blank%22%3ETwitter%3C%2Fa%3E
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhan-abuhay-jemere-a30b441a3/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bura.abuy2015@gmail.com) [![Facebook](https://img.shields.io/badge/twitter/url style=social&url=href%3D%22https%3A%2F%2Ftwitter.com%2FAbuhayJemere%22%20target%3D%22_blank%22%3ETwitter%3C%2Fa%3E)]
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:The future has no limit !
