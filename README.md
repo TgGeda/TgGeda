@@ -29,7 +29,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me: 
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhan-abuhay-jemere-a30b441a3/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bura.abuy2015@gmail.com)    [![Twitter Followers](https://img.shields.io/twitter/follow/TwitterHandle?style=social)](href="https://twitter.com/AbuhayJemere)  [![Facebook] (https://img.shields.io/badge/Facebook-%233a53c.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100031975305010/)
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhan-abuhay-jemere-a30b441a3/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bura.abuy2015@gmail.com)    [![Twitter Followers](https://img.shields.io/twitter/follow/TwitterHandle?style=social)](href="https://twitter.com/AbuhayJemere)  [![Facebook](https://img.shields.io/badge/Facebook-%233a53c.svg?style=flat-square&logo=facebook&logoColor=white(https://www.facebook.com/profile.php?id=100031975305010/)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:The future has no limit !
