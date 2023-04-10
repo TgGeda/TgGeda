@@ -8,8 +8,7 @@
 <ul>
   <li><a href="https://www.alxafrica.com/">Holberton school/ALX</a></li><br>
   <li><a href="https://www.microverse.org/">Microverse </a></li><br>
-  <li><a href="https://www.coursera.org/professional-certificates/ibm-backend-development" > IBM </a> </li>
-  <li><a href="https://www.coursera.org/professional-certificates/ibm-backend-development" > IBM </a> </li>
+  <li><a href="https://www.coursera.org/professional-certificates/ibm-backend-development" > IBM </a> </li
    
 </ul> <br> I spend most of my time through writing codes to enhance my programming skills.</p>
 </div>
@@ -29,7 +28,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me: 
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhan-abuhay-jemere-a30b441a3/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bura.abuy2015@gmail.com)    [![Twitter Followers](https://img.shields.io/twitter/follow/TwitterHandle?style=social)](href="https://twitter.com/AbuhayJemere)   
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhan-abuhay-jemere-a30b441a3/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bura.abuy2015@gmail.com)        
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:The future has no limit !
